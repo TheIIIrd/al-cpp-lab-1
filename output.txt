@@ -1,0 +1,13 @@
+
+Aaaaa 4 5 
+Average : 4.5
+
+Bbbbb 4 5 5 
+Average : 4.66667
+
+Ccccc 3 3 
+Average : 3
+
+Ddddd 3 4 4 5 4 
+Average : 4
+Total 4
