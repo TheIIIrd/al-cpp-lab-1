@@ -207,7 +207,7 @@ istream &operator>>(istream &is, Stgroup &stgroup) {
 }
 
 void customOutput(const Stgroup &stgroup) {
-  ofstream file("output.txt", ios_base::app);
+  ofstream file("../stream/output.txt", ios_base::app);
 
   cout << stgroup;
   file << stgroup;
@@ -216,7 +216,7 @@ void customOutput(const Stgroup &stgroup) {
 }
 
 void customInput(Stgroup &stgroup) {
-  ifstream file("input.txt");
+  ifstream file("../stream/input.txt");
 
   file >> stgroup;
 
