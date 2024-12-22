@@ -1,2 +1,2 @@
-# al-cpp-lab-1 class-study
+# **al-cpp-lab-1 class-study**
 Studying C++ classes
